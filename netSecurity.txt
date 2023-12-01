@@ -1,5 +1,5 @@
-netwrok security report
-2022.12.01
+                                 netwrok security report
+2023.12.01
 
 Network security consists of the policies, 
 processes and practices adopted to prevent, detect and monitor unauthorized access,
@@ -11,4 +11,5 @@ to information and programs within their authority. Network security covers a
 variety of computer networks, both public and private, that are used in 
 everyday jobs: conducting transactions and communications among businesses, 
 government agencies and individuals. 
-Networks can be private, such as within a company, and others which might be open to public access. Network security is involved in organizations, enterprises, and other types of institutions. It does as its title explains: it secures the network, as well as protecting and overseeing operations being done. The most common and simple way of protecting a network resource is by assigning it a unique name and a corresponding password. 
+
+Network security starts with authentication, commonly with a username and a password. Since this requires just one detail authenticating the user name—i.e., the password—this is sometimes termed one-factor authentication. With two-factor authentication, something the user 'has' is also used (e.g., a security token or 'dongle', an ATM card, or a mobile phone); and with three-factor authentication, something the user 'is' is also used (e.g., a fingerprint or retinal scan). 
