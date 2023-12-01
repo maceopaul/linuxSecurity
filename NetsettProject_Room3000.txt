@@ -8,6 +8,19 @@ Pc, Network device, Software etc.
 Hardware Part
 - HW admin. Mr.Hw
 
+Date: 23.12.01 
+HW device
+- netwrok model: cisco. hp, netgear
+
+Switch 
+1. switch device count
+2. switch price ?
+
+Router
+1. Router price
+2. Router: L3 switch, Router
+
+firewall
 
 Software Part
 - SW admin. Mr.Sw
